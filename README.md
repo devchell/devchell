@@ -7,7 +7,7 @@
   *A art lover, an aspiring musician and a good Genshin player.*<br>
 <br>
 
-**Skills and Tools**
+## Skills and Tools
 
 <div> 
   <a href="https://dev.java" target="_blank"><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logoColor=white" target="_blank"/></a>
@@ -16,7 +16,7 @@
 </div>
 <br>
 
-**Github Statics**
+## Github Statics
 <div align="center">
 <a href="https://github.com/Gurupreet">
  <img src="https://github-readme-stats.vercel.app/api?username=devchell&show_icons=true&theme=dracula&line_height=27" alt="**DevChell** github stats"/>
@@ -25,7 +25,7 @@
 
 <br>  
 
-**Contact Me**
+## Contact Me
 
 <div> 
   <a href="https://instagram.com/nerdchell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
