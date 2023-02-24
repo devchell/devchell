@@ -32,9 +32,8 @@
  	<a href="https://www.twitch.tv/nerdchell" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:devchell@outlook.com"><img src="https://img.shields.io/badge/-EMail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devchell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-</div>  
 
-![Snake animation](https://github.com/devchell/devchell/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devchell/devchell/blob/output/github-contribution-grid-snake.svg)
+</div>
+</div>
 
