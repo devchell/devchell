@@ -18,7 +18,7 @@
 
 ## Github Statics
 <div align="center">
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/devchell">
  <img src="https://github-readme-stats.vercel.app/api?username=devchell&show_icons=true&theme=dracula&line_height=27" alt="**DevChell** github stats"/>
 </a>
 </div>
