@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/in/devchell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-![Snake animation](https://github.com/devchell)
-</div>
+</div>  
+
+![Snake animation](https://github.com/devchell/devchell/blob/main/.github/workflows/snake.yml)
+
