@@ -10,7 +10,7 @@
 ## Github Statics
 <div align="center">
 <a href="https://github.com/devchell">
- <img src="https://github-readme-stats.vercel.app/api?username=devchell&show_icons=true&theme=radical&line_height=27" alt="**DevChell** github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=devchell&show_icons=true&theme=radical&line_height=27" alt="**DevChell** githubasdasdasds stats"/>
 </a>
 </div>
 
@@ -23,7 +23,5 @@
  	<a href="https://www.twitch.tv/nerdchell" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:devchell@outlook.com"><img src="https://img.shields.io/badge/-EMail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devchell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
 </div>
 
