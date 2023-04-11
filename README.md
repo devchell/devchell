@@ -7,15 +7,6 @@
   *A art lover, an aspiring musician and a good Genshin player.*<br>
 <br>
 
-## Skills and Tools
-
-<div> 
-  <a href="https://dev.java" target="_blank"><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logoColor=white" target="_blank"/></a>
-  <a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=white" target="_blank"/></a>
-  <a href="https://linux.org" target="_blank"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logoColor=white" target="_blank"/></a>
-</div>
-<br>
-
 ## Github Statics
 <div align="center">
 <a href="https://github.com/devchell">
