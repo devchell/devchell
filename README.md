@@ -4,7 +4,7 @@
 
   Hi, I'm João Vitor, but you can call me **Chell**.<br>
   I'm a **Java Developer** from Brazil, 21 years old.<br>
-  *A art lover, an aspiring musician and a good Genshin player.*<br>
+  *A art lover, an aspiring musician.*<br>
 <br>
 
 ## Github Statics
