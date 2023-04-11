@@ -3,7 +3,7 @@
 ## Hello World, I'm Chell! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
   Hi, I'm João Vitor, but you can call me **Chell**.<br>
-  I'm a **Java Developer** from Brazil, 21 years old.<br>
+  I'm a **Fullstack Developer** from Brazil, 21 years old.<br>
   *A art lover, an aspiring musician.*<br>
 <br>
 
