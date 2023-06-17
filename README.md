@@ -12,7 +12,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=devchell&show_icons=true&theme=radical&line_height=27" alt="**DevChell** github stats"/>
   <br>
   <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchell&layout=compact)(https://github.com/anuraghazra/github-readme-stats)" alt="**DevChell** most usad language"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchell&layout=compact" alt="**DevChell** most usad language"/>
 </a>
 </div>
 
