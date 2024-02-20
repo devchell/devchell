@@ -4,7 +4,7 @@
 
   Hi, I'm João Vitor, but you can call me **Chell**.<br>
   I'm a student, developer and Minecraft plugin enthusiast.<br>
-  Here on my github I post some freelance projects and some ideas for plugins and studies, feel free to call me to talk about it, either to help or to give me some tips!<br>
+  Here on my github I post some freelance projects and some ideas for plugins and studies, <br>feel free to call me to talk about it, either to help or to give me some tips!<br>
 
 ## Contact Me
 
